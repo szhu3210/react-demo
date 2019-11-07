@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/yitu/static/js/runtime~main.c25013e2.js"
   },
   {
-    "revision": "9aa836963276a937f90d",
-    "url": "/yitu/static/js/main.9aa83696.chunk.js"
+    "revision": "49ea1d0be9ccef3fd48f",
+    "url": "/yitu/static/js/main.49ea1d0b.chunk.js"
   },
   {
     "revision": "838835256c241f9b6b64",
     "url": "/yitu/static/js/2.83883525.chunk.js"
   },
   {
-    "revision": "9aa836963276a937f90d",
-    "url": "/yitu/static/css/main.d33da477.chunk.css"
+    "revision": "49ea1d0be9ccef3fd48f",
+    "url": "/yitu/static/css/main.50aab020.chunk.css"
   },
   {
-    "revision": "6f188ddbf597e5a7fcc4a5bd09a213a7",
+    "revision": "ddf43801725b04f683d897612ffd839e",
     "url": "/yitu/index.html"
   }
 ];

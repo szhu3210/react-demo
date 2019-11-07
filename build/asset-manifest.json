@@ -1,13 +1,13 @@
 {
-  "main.css": "/yitu/static/css/main.d33da477.chunk.css",
-  "main.js": "/yitu/static/js/main.9aa83696.chunk.js",
-  "main.js.map": "/yitu/static/js/main.9aa83696.chunk.js.map",
+  "main.css": "/yitu/static/css/main.50aab020.chunk.css",
+  "main.js": "/yitu/static/js/main.49ea1d0b.chunk.js",
+  "main.js.map": "/yitu/static/js/main.49ea1d0b.chunk.js.map",
   "runtime~main.js": "/yitu/static/js/runtime~main.c25013e2.js",
   "runtime~main.js.map": "/yitu/static/js/runtime~main.c25013e2.js.map",
   "static/js/2.83883525.chunk.js": "/yitu/static/js/2.83883525.chunk.js",
   "static/js/2.83883525.chunk.js.map": "/yitu/static/js/2.83883525.chunk.js.map",
   "index.html": "/yitu/index.html",
-  "precache-manifest.3a3248622306569d20fb1d57212a60cf.js": "/yitu/precache-manifest.3a3248622306569d20fb1d57212a60cf.js",
+  "precache-manifest.a58160fd85a8948efe3202615f04167f.js": "/yitu/precache-manifest.a58160fd85a8948efe3202615f04167f.js",
   "service-worker.js": "/yitu/service-worker.js",
-  "static/css/main.d33da477.chunk.css.map": "/yitu/static/css/main.d33da477.chunk.css.map"
+  "static/css/main.50aab020.chunk.css.map": "/yitu/static/css/main.50aab020.chunk.css.map"
 }
