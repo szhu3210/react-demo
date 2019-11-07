@@ -33,7 +33,7 @@ class Canvas extends Component {
 
   renderLines = (lines) =>
       lines.map((line, i) => {
-        return App.renderLine(i, line.x1, line.y1, line.x2, line.y2, line.show)
+        return Canvas.renderLine(i, line.x1, line.y1, line.x2, line.y2, line.show)
       }
     );
 
