@@ -7,7 +7,7 @@ toy project when learning react
 https://sztroy.info/demo
 
 # Usage
-cd <directory that contains this project folder>
+cd to the directory that contains this project folder
 cd react-demo-master
 npm start
 点击Start按钮开始画线动画（重新开始）
